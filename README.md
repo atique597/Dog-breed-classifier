@@ -4,7 +4,7 @@
 [image2]: ./xyz/vgg16_model.png "VGG-16 Model Layers"
 [image3]: ./xyz/vgg16_model_draw.png "VGG16 Model Figure"
 
-# Dog Breed Prediction (exact)
+# Dog Breed Prediction (exactly)
 
 ## Project Overview
 
